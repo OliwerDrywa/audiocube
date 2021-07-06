@@ -3,7 +3,7 @@
 0. install tools \
    [svelte extension](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) - syntax highlighting for `.svelte` files \
    [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - auto-format with `shift+alt+f`  
-1. clone the gihub repository \
+1. clone the github repository \
    in an new empty project in vscode terminal run \
    ```git clone https://github.com/OliwerDrywa/audiocube.git .```
 2. install dependencies (svelte, ...) \
